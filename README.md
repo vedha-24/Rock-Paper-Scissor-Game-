@@ -3,7 +3,7 @@ Rock-Paper-scissor game created using Javascript,HTML,CSS
 
 ## Published Link
 
-# click here : https://vedhasrockpaperscissor.netlify.app/
+click here : https://vedhasrockpaperscissor.netlify.app/
 
 ## screenshot
 
